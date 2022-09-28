@@ -21,7 +21,7 @@ class StatsServiceTest {
 
     @Test
 
-    public void AverageSum() {
+    public void averageSum() {
         StatsService service = new StatsService();
         long[] sales = {8, 15, 13, 15, 17, 20, 19, 20, 7, 14, 14, 18};
 
