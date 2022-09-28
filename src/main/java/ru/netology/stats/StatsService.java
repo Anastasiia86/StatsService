@@ -1,3 +1,5 @@
+package ru.netology.stats;
+
 public class StatsService {
 
     public long total(long[] sales) {
